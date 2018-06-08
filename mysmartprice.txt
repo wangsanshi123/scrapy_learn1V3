@@ -1,0 +1,6 @@
+Samsung,galaxy-s9,http://www.mysmartprice.com/mobile/samsung-galaxy-s9-msp12867
+Samsung,galaxy-s9-plus,http://www.mysmartprice.com/mobile/samsung-galaxy-s9-plus-msp12891
+Samsung,galaxy-j7-max,http://www.mysmartprice.com/mobile/samsung-galaxy-j7-max-msp12639
+Samsung,galaxy-j7-prime,http://www.mysmartprice.com/mobile/samsung-galaxy-j7-prime-msp11258
+Samsung,galaxy-s9-256gb,http://www.mysmartprice.com/mobile/samsung-galaxy-s9-256gb-msp14299
+Vivo,v7-plus,http://www.mysmartprice.com/mobile/vivo-v7-plus-msp13231

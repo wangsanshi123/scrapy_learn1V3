@@ -1,0 +1,11 @@
+xiaomi,mix2,http://mobile.mi.com/in/mix2/?RNType=product&product_id=mix2
+xiaomi,redmi-y1,http://mobile.mi.com/in/redmi-y1/?RNType=product&product_id=redmi-y1
+xiaomi,redmi4,http://mobile.mi.com/in/redmi4/?RNType=product&product_id=redmi4
+xiaomi,redmi4a,http://mobile.mi.com/in/redmi4a/?RNType=product&product_id=redmi4a
+xiaomi,mia1,http://mobile.mi.com/in/mi-a1/?RNType=product&product_id=mi-a1
+xiaomi,mimax2,http://mobile.mi.com/in/max2/?RNType=product&product_id=max2
+xiaomi,redmi5,http://mobile.mi.com/in/redmi-5/?RNType=product&product_id=redmi-5
+xiaomi,redminote5_pro,http://mobile.mi.com/in/redmi-note-5-pro/?RNType=product&product_id=redmi-note-5-pro
+xiaomi,redminote5,http://mobile.mi.com/in/redmi-note5/?RNType=product&product_id=redmi-note5
+xiaomi,redmi_y1_lite,http://m.buy.mi.com/in/item/3174400022/?RNType=product&product_id=3174400022
+xiaomi,redmi_note_4,http://mobile.mi.com/in/note4/?RNType=product&product_id=note4

@@ -1,0 +1,2 @@
+Samsung,https://www.mobilescout.com/forum/forums/25-Samsung/
+Apple,https://www.mobilescout.com/forum/forums/20-Apple/
